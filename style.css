@@ -69,6 +69,7 @@ main{
     margin-bottom: 30px;
     line-height: 1.5em;
 }
+/* to align the icon and text in the button in the middle */
 .cart-icon{
     vertical-align: middle;
     margin-right: 10px;
@@ -102,7 +103,7 @@ main{
     color: var(--n-Dark-grayish-blue);
     margin-left: 25px;
 }
-@media screen and (max-width: 375px){
+@media screen and (max-width: 600px){
     main{
         display: flex;
         flex-direction: column;
