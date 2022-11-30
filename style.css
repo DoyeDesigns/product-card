@@ -103,6 +103,14 @@ main{
     color: var(--n-Dark-grayish-blue);
     margin-left: 25px;
 }
+.sr-only {
+    position:absolute;
+    left:-10000px;
+    top:auto;
+    width:1px;
+    height:1px;
+    overflow:hidden;
+    }
 @media screen and (max-width: 600px){
     main{
         display: flex;
