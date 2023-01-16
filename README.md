@@ -23,6 +23,8 @@ Users should be able to:
 - Css flexbox
 
 ## Links
- live site url - https://doyedesigns.github.io/product-card/
- Frontend Mentor NFT preview card component challenge - https://www.frontendmentor.io/solutions/product-card-using-flexbox-and-media-queries-for-responsive-design-GjeQk0cEIj
- Frontend Mentor Profile - https://www.frontendmentor.io/profile/DoyeDesigns
+live site url - https://doyedesigns.github.io/product-card/
+ 
+Frontend Mentor NFT preview card component challenge - https://www.frontendmentor.io/solutions/product-card-using-flexbox-and-media-queries-for-responsive-design-GjeQk0cEIj
+
+Frontend Mentor Profile - https://www.frontendmentor.io/profile/DoyeDesigns
