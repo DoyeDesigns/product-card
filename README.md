@@ -9,7 +9,7 @@ Your challenge is to build out this product Preview card component  and get it l
  Design challenge link - https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa
 
 
-## Challenge features
+## Project features
 
 Users should be able to:
 
